@@ -1,5 +1,5 @@
 111111
-222222werwerewrwerewr
+1.0.2-cmc-SNAPSHOT
 333333
 444444
 555555
