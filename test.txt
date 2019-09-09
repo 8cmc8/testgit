@@ -1,2 +1,2 @@
-<tf8.user.version>1.0.0.1</tf8.user.version>
+<tf8.user.version>1.0.0.3</tf8.user.version>
 <tf8.item.version>1.0.0.4</tf8.item.version>
